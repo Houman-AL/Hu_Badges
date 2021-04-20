@@ -1,7 +1,7 @@
 
---[Hu_Leak : https://discord.gg/2AQCXpbv95 ]]--
+--[Made By Houman]]--
                 --[ Houman ]]--                 
---[Hu_Leak : https://discord.gg/2AQCXpbv95 ]]--
+--[Made By Houman]]--
 
 Config = {}
 
@@ -11,7 +11,7 @@ Config.ToggleBadgeJobsCommandinfo = 'toggle badge'
 
 Config.up_head = 0.6
 
-Config.AllPlayers = 5000 -- plz dont changit
+Config.AllPlayers = 5000
 
 Config.BageJobs = {
     -- {  job = your job need, color = { r= red, g = green, b = blue }  } (r, g, b < 255) (r, g, b > 0)
@@ -39,6 +39,6 @@ Config.grades_info = {
 
 }
 
---[Hu_Leak : https://discord.gg/2AQCXpbv95 ]]--
+--[Made By Houman]]--
                 --[ Houman ]]--                 
---[Hu_Leak : https://discord.gg/2AQCXpbv95 ]]--
+--[Made By Houman]]--
