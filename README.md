@@ -1,5 +1,5 @@
 # Hu_Badges | 🟢 Version : 1.0
-Hu_Badges | Made By Houman#7172
+Hu_Badges | Made By Houman
 
 Video : https://youtu.be/xEo0pjirEcs (DELE_GARDEN)
 
